@@ -7,4 +7,4 @@ Pasta de trabalho do Claude para produzir as artes do perfil pessoal. Tudo aqui 
 - `exemplos/carrossel_a_chama.py` — carrossel de 7 slides publicado em 09/11/2026 (referência de layout).
 - `fonts/` — Manrope, Cormorant Garamond, Caveat (SIL OFL). `assets/` — foto, recorte e logos.
 
-Regras: artes só vão para `pessoal/AAAA-MM-DD-slug/` depois de aprovadas pelo Júlio. Nunca colocar aqui arquivos internos, de clientes ou rascunhos não aprovados.
+Regras: artes só vão para `pessoal/AAAA-MM-DD-slug/` (perfil pessoal) ou `vseven/AAAA-MM-DD-slug/` (Instagram da VSeven, @grupo.vseven) depois de aprovadas pelo Júlio; nunca misturar as duas pastas. Nunca colocar aqui arquivos internos, de clientes ou rascunhos não aprovados.
