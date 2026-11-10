@@ -8,4 +8,4 @@ Pasta de trabalho do Claude para produzir as artes do perfil pessoal. Tudo aqui 
 - `exemplos/carrossel_vseven_black_friday.py` — carrossel VSeven de 6 slides publicado em 10/11/2026 no @grupo.vseven (referência de layout da VSeven: preto/marfim alternados, ouro de destaque, logo em todos os slides, último slide em ouro com CTA).
 - `fonts/` — Manrope, Cormorant Garamond, Caveat (SIL OFL). `assets/` — foto, recorte e logos.
 
-Regras: artes só vão para `pessoal/AAAA-MM-DD-slug/` (perfil pessoal) ou `vseven/AAAA-MM-DD-slug/` (Instagram da VSeven, @grupo.vseven) depois de aprovadas pelo Júlio; nunca misturar as duas pastas. Nunca colocar aqui arquivos internos, de clientes ou rascunhos não aprovados.
+Regras: artes só vão para `pessoal/AAAA-MM-DD-slug/` (perfil pessoal) ou `vseven/AAAA-MM-DD-slug/` (Instagram da VSeven, @grupo.vseven) ou `linkedin/AAAA-MM-DD-slug/` (LinkedIn pessoal) depois de aprovadas pelo Júlio; nunca misturar as pastas. Nunca colocar aqui arquivos internos, de clientes ou rascunhos não aprovados.
