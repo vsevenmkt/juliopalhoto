@@ -12,7 +12,8 @@ from PIL import Image
 BASE = os.path.dirname(os.path.abspath(__file__))
 ASSETS = {k: f'file://{BASE}/assets/{v}' for k, v in {
     'avatar': 'julio-avatar.jpg', 'julio_cut': 'julio-cut.png',
-    'logo_gold': 'logo-gold.png', 'logo_ink': 'logo-ink.png'}.items()}
+    'logo_gold': 'logo-gold.png', 'logo_ink': 'logo-ink.png',
+    'vsdok_icone': 'vsdok-icone.png', 'vsdok_banner': 'vsdok-banner.png'}.items()}
 FAM = [('manrope', 'Manrope', 'normal', [300, 400, 500, 600, 700, 800]),
        ('cormorant-garamond', 'Cormorant Garamond', 'normal', [500, 600]),
        ('cormorant-garamond', 'Cormorant Garamond', 'italic', [500, 600]),
